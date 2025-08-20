@@ -31,7 +31,7 @@ export default function Navbar() {
             Favorite
           </NavLink>
         </li>
-      </ul>
+      </ul>``
     </nav>
   );
 }
